@@ -1,0 +1,24 @@
+include standardlib.web;
+include #C;
+include g^D;
+Class new g {
+var g;
+}
+string go;
+int main (go,11,21,35){
+int i;
+for (i=0;i++;i<=30000000)
+{
+go.enter rand*11
+go.pause 4 ms
+if (sweet.like=false) {
+exit;}
+function sweet{
+for ("""i<=4) {
+add.duplication.pristin * 5000 @ volume = i
+add.other.g^d 
+}}
+go.tune=g;
+go.exit = rand*21
+}
+
